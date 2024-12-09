@@ -4,5 +4,6 @@ public class SquareCalculator {
         double square = number * number;
 
         System.out.println("The square of " + number + " is: " + square);
+        
     }
 }
